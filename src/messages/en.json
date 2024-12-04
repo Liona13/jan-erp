@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "title": "Jan ERP - Enterprise Resource Planning System",
+    "description": "A comprehensive enterprise resource planning solution designed to streamline your business operations."
+  },
+  "error": {
+    "notFound": {
+      "title": "Page not found",
+      "description": "Please check the URL in the address bar and try again.",
+      "home": "Go back home",
+      "contact": "Contact support"
+    }
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "news": "News",
+    "careers": "Careers",
+    "contact": "Contact"
+  },
+  "footer": {
+    "title": "Footer",
+    "description": "Streamline your business operations with our comprehensive enterprise resource planning solution.",
+    "solutions_title": "Solutions",
+    "company_title": "Company",
+    "solutions": {
+      "finance": "Financial Management",
+      "inventory": "Inventory Control",
+      "hr": "HR Management",
+      "analytics": "Analytics & Reporting"
+    },
+    "company": {
+      "about": "About",
+      "news": "News",
+      "careers": "Careers",
+      "contact": "Contact"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "github": "GitHub"
+    },
+    "rights": "All rights reserved."
+  },
+  "home": {
+    "hero": {
+      "title": "Transform Your Business Operations",
+      "description": "A comprehensive enterprise resource planning solution designed to streamline your business processes and boost productivity.",
+      "cta": {
+        "primary": "Explore Products",
+        "secondary": "Contact Sales"
+      }
+    },
+    "features": {
+      "title": "Features",
+      "description": "Our key features",
+      "items": [
+        {
+          "title": "Finance",
+          "description": "Complete financial management"
+        },
+        {
+          "title": "Inventory",
+          "description": "Inventory management system"
+        },
+        {
+          "title": "HR",
+          "description": "Human resources management"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Our Impact",
+      "description": "Key metrics that showcase our success",
+      "metrics": {
+        "users": "Active Users",
+        "countries": "Countries",
+        "data": "Data Points",
+        "uptime": "Uptime"
+      }
+    },
+    "testimonials": {
+      "title": "Testimonials",
+      "description": "What our customers say",
+      "items": [
+        {
+          "body": "Great product!",
+          "author": {
+            "name": "John Doe",
+            "role": "CEO",
+            "company": "Company A"
+          }
+        },
+        {
+          "body": "Excellent service!",
+          "author": {
+            "name": "Jane Smith",
+            "role": "CTO",
+            "company": "Company B"
+          }
+        },
+        {
+          "body": "Amazing support!",
+          "author": {
+            "name": "Mike Johnson",
+            "role": "COO",
+            "company": "Company C"
+          }
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to get started?",
+      "description": "Join thousands of satisfied customers",
+      "button": "Contact Us"
+    }
+  },
+  "products": {
+    "navigation": {
+      "menu": "Product Navigation",
+      "overview": "Overview",
+      "finance": "Financial Management",
+      "inventory": "Inventory Control",
+      "hr": "HR Management",
+      "analytics": "Analytics & Reporting"
+    },
+    "overview": {
+      "title": "Sobersoft ERP",
+      "description": "A comprehensive enterprise resource planning solution designed to streamline your business operations.",
+      "features": {
+        "title": "Key Features",
+        "description": "Everything you need to manage your business efficiently.",
+        "items": {
+          "finance": {
+            "title": "Financial Management",
+            "description": "Complete financial control with advanced accounting features."
+          },
+          "inventory": {
+            "title": "Inventory Control",
+            "description": "Real-time inventory tracking and management."
+          },
+          "hr": {
+            "title": "HR Management",
+            "description": "Comprehensive human resources management system."
+          },
+          "analytics": {
+            "title": "Analytics & Reporting",
+            "description": "Data-driven insights and customizable reports."
+          }
+        }
+      }
+    }
+  }
+} 

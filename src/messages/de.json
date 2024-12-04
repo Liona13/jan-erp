@@ -1,0 +1,155 @@
+{
+  "metadata": {
+    "title": "Jan ERP - Enterprise Resource Planning System",
+    "description": "Eine umfassende Enterprise Resource Planning-Lösung zur Optimierung Ihrer Geschäftsabläufe."
+  },
+  "error": {
+    "notFound": {
+      "title": "Seite nicht gefunden",
+      "description": "Bitte überprüfen Sie die URL in der Adressleiste und versuchen Sie es erneut.",
+      "home": "Zur Startseite",
+      "contact": "Support kontaktieren"
+    }
+  },
+  "navigation": {
+    "home": "Startseite",
+    "about": "Über uns",
+    "products": "Produkte",
+    "news": "Neuigkeiten",
+    "careers": "Karriere",
+    "contact": "Kontakt"
+  },
+  "footer": {
+    "title": "Fußzeile",
+    "description": "Optimieren Sie Ihre Geschäftsprozesse mit unserer umfassenden Enterprise Resource Planning-Lösung.",
+    "solutions_title": "Lösungen",
+    "company_title": "Unternehmen",
+    "solutions": {
+      "finance": "Finanzverwaltung",
+      "inventory": "Lagerverwaltung",
+      "hr": "Personalmanagement",
+      "analytics": "Analytik & Berichterstattung"
+    },
+    "company": {
+      "about": "Über uns",
+      "news": "Neuigkeiten",
+      "careers": "Karriere",
+      "contact": "Kontakt"
+    },
+    "social": {
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "github": "GitHub"
+    },
+    "rights": "Alle Rechte vorbehalten."
+  },
+  "home": {
+    "hero": {
+      "title": "Transformieren Sie Ihre Geschäftsprozesse",
+      "description": "Eine umfassende Enterprise Resource Planning-Lösung zur Optimierung Ihrer Geschäftsprozesse und Steigerung der Produktivität.",
+      "cta": {
+        "primary": "Produkte entdecken",
+        "secondary": "Vertrieb kontaktieren"
+      }
+    },
+    "features": {
+      "title": "Funktionen",
+      "description": "Unsere Hauptfunktionen",
+      "items": [
+        {
+          "title": "Finanzen",
+          "description": "Komplettes Finanzmanagement"
+        },
+        {
+          "title": "Inventar",
+          "description": "Inventarverwaltungssystem"
+        },
+        {
+          "title": "Personal",
+          "description": "Personalverwaltung"
+        }
+      ]
+    },
+    "stats": {
+      "title": "Unsere Wirkung",
+      "description": "Kennzahlen, die unseren Erfolg zeigen",
+      "metrics": {
+        "users": "Aktive Nutzer",
+        "countries": "Länder",
+        "data": "Datenpunkte",
+        "uptime": "Verfügbarkeit"
+      }
+    },
+    "testimonials": {
+      "title": "Referenzen",
+      "description": "Was unsere Kunden sagen",
+      "items": [
+        {
+          "body": "Großartiges Produkt!",
+          "author": {
+            "name": "John Doe",
+            "role": "CEO",
+            "company": "Firma A"
+          }
+        },
+        {
+          "body": "Exzellenter Service!",
+          "author": {
+            "name": "Jane Smith",
+            "role": "CTO",
+            "company": "Firma B"
+          }
+        },
+        {
+          "body": "Fantastischer Support!",
+          "author": {
+            "name": "Mike Johnson",
+            "role": "COO",
+            "company": "Firma C"
+          }
+        }
+      ]
+    },
+    "cta": {
+      "title": "Bereit loszulegen?",
+      "description": "Schließen Sie sich tausenden zufriedener Kunden an",
+      "button": "Kontaktieren Sie uns"
+    }
+  },
+  "products": {
+    "navigation": {
+      "menu": "Produktnavigation",
+      "overview": "Übersicht",
+      "finance": "Finanzverwaltung",
+      "inventory": "Lagerverwaltung",
+      "hr": "Personalmanagement",
+      "analytics": "Analytik & Berichterstattung"
+    },
+    "overview": {
+      "title": "Sobersoft ERP",
+      "description": "Eine umfassende Enterprise Resource Planning-Lösung zur Optimierung Ihrer Geschäftsabläufe.",
+      "features": {
+        "title": "Hauptfunktionen",
+        "description": "Alles, was Sie für die effiziente Verwaltung Ihres Unternehmens benötigen.",
+        "items": {
+          "finance": {
+            "title": "Finanzverwaltung",
+            "description": "Vollständige Finanzkontrolle mit erweiterten Buchhaltungsfunktionen."
+          },
+          "inventory": {
+            "title": "Lagerverwaltung",
+            "description": "Echtzeit-Bestandsverfolgung und -verwaltung."
+          },
+          "hr": {
+            "title": "Personalmanagement",
+            "description": "Umfassendes Personalverwaltungssystem."
+          },
+          "analytics": {
+            "title": "Analytik & Berichterstattung",
+            "description": "Datengesteuerte Einblicke und anpassbare Berichte."
+          }
+        }
+      }
+    }
+  }
+} 
